@@ -56,7 +56,7 @@ a {
 }
 .section {
 	position: relative;
-	margin-top: 21px;
+	margin-top: 0px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
@@ -68,7 +68,7 @@ a {
 	vertical-align: top;
 	min-width: 960px;
 	width: 960px;
-	min-height: 61px;
+	min-height: 67px;
 	position: relative;
 	z-index: 2;
 	margin-left: 0px;
@@ -92,14 +92,21 @@ a {
 	line-height: 21.60pt;
 	letter-spacing: normal;
 }
+.para-2 {
+	text-indent: 0;
+	padding-top: 4pt;
+	margin-top: 0pt;
+	margin-bottom: -4pt;
+	text-align: left;
+}
 .font-2 {
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-	font-size: 13.50pt;
+	font-family: Times, serif;
+	font-size: 10.50pt;
 	font-weight: 400;
-	font-style: italic;
-	text-decoration: none;
+	font-style: normal;
+	text-decoration: underline;
 	color: rgb(0,0,0);
-	line-height: 27.94pt;
+	line-height: 18.90pt;
 	letter-spacing: normal;
 }
 .cont-2 {
@@ -112,9 +119,8 @@ a {
 	width: 650px;
 	min-height: 185px;
 	position: relative;
-	z-index: 1;
 	margin-left: 0px;
-	margin-top: -8px;
+	margin-top: 16px;
 }
 .cont-4 {
 	display: inline-block;
@@ -123,9 +129,8 @@ a {
 	width: 960px;
 	min-height: 656px;
 	position: relative;
-	z-index: 3;
 	margin-left: 0px;
-	margin-top: 16px;
+	margin-top: 77px;
 }
 .cont-5 {
 	display: inline-block;
@@ -135,7 +140,7 @@ a {
 	min-height: 739px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: -61px;
+	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
@@ -166,9 +171,9 @@ a {
 	width: 190px;
 	min-height: 50px;
 	position: relative;
-	z-index: 6;
+	z-index: 5;
 	margin-left: 385px;
-	margin-top: -212px;
+	margin-top: -350px;
 	height: 50px;
 }
 .anchor {
@@ -189,9 +194,9 @@ a {
 	width: 960px;
 	min-height: 525px;
 	position: relative;
-	z-index: 5;
+	z-index: 7;
 	margin-left: 0px;
-	margin-top: -170px;
+	margin-top: -126px;
 }
 .cont-9 {
 	display: inline-block;
@@ -200,9 +205,8 @@ a {
 	width: 960px;
 	min-height: 566px;
 	position: relative;
-	z-index: 7;
 	margin-left: 0px;
-	margin-top: -9px;
+	margin-top: 70px;
 }
 .cont-10 {
 	display: inline-block;
@@ -212,7 +216,7 @@ a {
 	min-height: 737px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: -8px;
+	margin-top: 55px;
 }
 .colwrapper-2 {
 	display: inline-block;
@@ -245,7 +249,7 @@ a {
 	position: relative;
 	z-index: 9;
 	margin-left: 588px;
-	margin-top: -314px;
+	margin-top: -638px;
 	height: 50px;
 }
 .anchor-2 {
@@ -268,7 +272,7 @@ a {
 	position: relative;
 	z-index: 10;
 	margin-left: 184px;
-	margin-top: -180px;
+	margin-top: -504px;
 	height: 50px;
 }
 .anchor-3 {
@@ -292,7 +296,7 @@ a {
 	position: relative;
 	z-index: 11;
 	margin-left: 0px;
-	margin-top: -82px;
+	margin-top: -12px;
 	border: 0;
 	background-color: rgb(192,192,192);
 }
